@@ -1,0 +1,257 @@
+html
+{
+	background-color: white;
+}
+h1 {
+	
+	text-align: center;
+	background-color: red;
+	padding: 15 px;
+}
+
+@media (max-width:767px)
+{
+
+div{
+	padding:15px;
+	margin:30px;
+	border:3px;
+	
+	
+	box-sizing: border-box;
+	
+	background-color: antiquewhite;
+	overflow:auto;
+	
+}
+	.col-md-1{
+		background-color: darkgray;
+		width:99%;
+		padding;15px;
+		float:left;
+		border:3px;
+		border-color: black;
+		margin:0.3%;
+		height: 30%;
+	}
+	.col-md-2{
+		background-color: darkgray;
+		width:99%;
+		padding;15px;
+		float:left;
+		border:3px;
+		border-color: black; 
+		margin:0.3%;
+		height: 30%;
+	}.col-md-3{
+		background-color: darkgray;
+		width:99%;
+		padding;15px;
+		float:left;
+		height: 30%;
+		border:3px;
+		border-color: black;
+		margin:0.3%;
+	}.col-md-4{
+		background-color: darkgray;
+		width:99%;
+		padding;15px;
+		float:left;
+		border:3px;
+		height: 30%;
+		border-color: black;
+		margin:0.3%;
+	}.col-md-5{
+		background-color: darkgray;
+		width:99%;
+		padding;15px;
+		float:left;
+		border:3px;
+		height: 30%;
+		border-color: black;
+		margin:0.3%;
+	}.col-md-6{
+		background-color: darkgray;
+		width:99%;
+		padding;15px; 
+		float:left;
+		border:3px;
+		height: 30%;
+		border-color: black;
+		margin:0.3%;
+	}.col-md-7{
+		background-color: darkgray;
+		width:99%;
+		padding;15px;
+		float:left;
+		border:3px;
+		height: 30%;
+		border-color: black;
+		margin:0.3%;
+	}
+    
+}@media (min-width:768px) and (max-width:991px)
+{
+
+div{
+	padding:15px;
+	margin:30px;
+	border:3px;
+	
+	
+	box-sizing: border-box;
+	
+	background-color: antiquewhite;
+	overflow:auto;
+	
+}
+	.col-md-1{
+		background-color: darkgray;
+		width:45%;
+		padding;15px;
+		float:left;
+		border:3px;
+		border-color: black;
+		margin:0.3%;
+		height: 30%;
+	}
+	.col-md-2{
+		background-color: darkgray;
+		width:45%;
+		padding;15px;
+		float:left;
+		border:3px;
+		border-color: black; 
+		margin:0.3%;
+		height: 30%;
+	}.col-md-3{
+		background-color: darkgray;
+		width:45%;
+		padding;15px;
+		float:left;
+		height: 30%;
+		border:3px;
+		border-color: black;
+		margin:0.3%;
+	}.col-md-4{
+		background-color: darkgray;
+		width:45%;
+		padding;15px;
+		float:left;
+		border:3px;
+		height: 30%;
+		border-color: black;
+		margin:0.3%;
+	}.col-md-5{
+		background-color: darkgray;
+		width:45%;
+		padding;15px;
+		float:left;
+		border:3px;
+		height: 30%;
+		border-color: black;
+		margin:0.3%;
+	}.col-md-6{
+		background-color: darkgray;
+		width:45%;
+		padding;15px; 
+		float:left;
+		border:3px;
+		height: 30%;
+		border-color: black;
+		margin:0.3%;
+	}.col-md-7{
+		background-color: darkgray;
+		width:45%;
+		padding;15px;
+		float:left;
+		border:3px;
+		height: 30%;
+		border-color: black;
+		margin:0.3%;
+	}
+    
+}
+@media (min-width:992px)
+{
+
+div{
+	padding:15px;
+	margin:30px;
+	border:3px;
+	
+	
+	box-sizing: border-box;
+	
+	background-color: antiquewhite;
+	overflow:auto;
+	
+}
+	.col-md-1{
+		background-color: darkgray;
+		width:30%;
+		padding;15px;
+		float:left;
+		border:3px;
+		border-color: black;
+		margin:0.3%;
+		height: 30%;
+	}
+	.col-md-2{
+		background-color: darkgray;
+		width:30%;
+		padding;15px;
+		float:left;
+		border:3px;
+		border-color: black; 
+		margin:0.3%;
+		height: 30%;
+	}.col-md-3{
+		background-color: darkgray;
+		width:30%;
+		padding;15px;
+		float:left;
+		height: 30%;
+		border:3px;
+		border-color: black;
+		margin:0.3%;
+	}.col-md-4{
+		background-color: darkgray;
+		width:30%;
+		padding;15px;
+		float:left;
+		border:3px;
+		height: 30%;
+		border-color: black;
+		margin:0.3%;
+	}.col-md-5{
+		background-color: darkgray;
+		width:30%;
+		padding;15px;
+		float:left;
+		border:3px;
+		height: 30%;
+		border-color: black;
+		margin:0.3%;
+	}.col-md-6{
+		background-color: darkgray;
+		width:30%;
+		padding;15px; 
+		float:left;
+		border:3px;
+		height: 30%;
+		border-color: black;
+		margin:0.3%;
+	}.col-md-7{
+		background-color: darkgray;
+		width:30%;
+		padding;15px;
+		float:left;
+		border:3px;
+		height: 30%;
+		border-color: black;
+		margin:0.3%;
+	}
+    
+}
+
